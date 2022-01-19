@@ -9,7 +9,7 @@
   <img align="center" alt="Vyk-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Vyk-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Vyk=BootStrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="right" alt="Vyk-pic" height="150" style="border-radius:50px;" src="http://images6.fanpop.com/image/photos/43600000/kawaki-in-cafe-kawaki-club-43675283-788-1113.jpg?width=676&height=676">
+  <img align="right" alt="Vyk-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/338224_VxjAbfJr.png?width=676&height=676">
 </div>
   
   ##
